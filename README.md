@@ -1,6 +1,6 @@
 # .Net-Developer-Roadmap-Backend-2023
 
-Here, This is my roadmap for .NET developers that provides a structured path to follow. I have divided this roadmap into three main sections:
+Here, This is my roadmap for .NET developer that provides a structured path to follow. I have divided this roadmap into three main sections:
 Beginner, Intermediate, and Advanced. Each section covers a range of topics and technologies relevant to .NET development. 
 Additionally, there's a section dedicated to different career paths within the .NET ecosystem.
 

@@ -18,7 +18,7 @@ Additionally, there's a section dedicated to different career paths within the .
 - Exception handling and Logging
 
 ## Advanced Level
-Microservices Architecture with .NET Core
-Cloud Integration with Azure Services
-Performance Optimization and Scalability
-Software Design Patterns and Best Practices
+- Microservices Architecture with .NET Core
+- Cloud Integration with Azure Services
+- Performance Optimization and Scalability
+- Software Design Patterns and Best Practices

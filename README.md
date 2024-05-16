@@ -22,3 +22,5 @@ Additionally, there's a section dedicated to different career paths within the .
 - Cloud Integration with Azure Services
 - Performance Optimization and Scalability
 - Software Design Patterns and Best Practices
+
+![Net Developer Roadmap (1)](https://github.com/Sampritakoley/.Net-Developer-Roadmap-Backend-2023/assets/109060246/10e74b80-06d4-4389-8ab0-cedebe712ef2)
